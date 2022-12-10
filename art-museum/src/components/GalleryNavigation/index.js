@@ -1,5 +1,6 @@
 const GalleryNavigation = props =>{
   return (
+  
   <h1>Galleries</h1>
   )
 }
